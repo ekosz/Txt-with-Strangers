@@ -1,0 +1,8 @@
+{
+  "name": "txt-with-strangers",
+  "version": "0.0.1",
+  "dependencies": {
+    "redis": "latest",
+    "express": "latest"
+  }
+}

@@ -1,0 +1,6 @@
+module.exports.Credentials = {
+    sid: 'ACXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+    token: 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+    phoneNumber: '+1XXXXXXXXXX',
+    hostname: 'XXXXXXX-XXXX-XXXX.herokuapp.com'
+};
